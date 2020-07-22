@@ -23,7 +23,6 @@ header {
 }
 
 #presentation {
-    border: 1px solid red;
     display: flex;
     position: relative;
     width: 100%;
