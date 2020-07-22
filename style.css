@@ -116,6 +116,7 @@ li a {
     #presentation {
         flex-direction: column;
         position: relative;
+        
     }
 
     .product img {
@@ -135,11 +136,44 @@ li a {
 
     .intro-text h1 {
         position: relative;
-        font-size: 6.6vw;
         text-align: center;
+        font-size: 6.6vw;   
         right: 20px;
     }
 
-    
+    .intro-text p {
+        position: relative;
+        text-align: center;
+        font-size: 4vw;
+        right: 20px;
+    }
+
+    .intro-text .cta-register {
+        position: relative;
+        width: 225px;
+        height: 45px;
+        left: 10px;
+    }
+
+    .social {
+        display: flex;
+    }
+
+    .social-links {
+        position: relative;
+        left: -1010px;
+        padding-left: 75px;
+    }
+
+    ul li {
+        width: 25px;
+        height: 25px;
+        font-size: 15px;
+        margin-left: 15px;
+    }
+
+    li a {
+        padding: 5px;
+    }
+
 }
- 
