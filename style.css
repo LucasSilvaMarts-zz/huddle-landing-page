@@ -43,7 +43,7 @@ header {
 .intro-text h1 {
     color: white;
     font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 3vw; 
     margin-top: 10px;
 }
@@ -134,7 +134,12 @@ li a {
     }
 
     .intro-text h1 {
-        font-size: 6vw;
+        position: relative;
+        font-size: 6.6vw;
+        text-align: center;
+        right: 20px;
     }
+
+    
 }
  
