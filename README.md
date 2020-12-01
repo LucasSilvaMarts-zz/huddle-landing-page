@@ -5,6 +5,6 @@
 ## Bem-vindo! 👋
 
 Esse é um pequeno projeto proposto pelo Fontend Mentor feito por mim. 
-Durante o desenvolvimento do projeto, eu coloquei em prática todos os meus conhecimentos de HTML 5 e CSS, eu também deixei o layout responsivo.
+Durante o desenvolvimento do projeto, eu coloquei em prática todos os meus conhecimentos de HTML 5 e CSS, eu também deixei o layout responsivo para mobile.
 
-## Dá uma olhada em como ele ficou 👉 
+## Da uma olhada em como ele ficou 👉 https://lucassilvamarts.github.io/huddle-landing-page/
